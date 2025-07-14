@@ -8,7 +8,7 @@ st.title("Color Tower Combinations")
 colors = ["", "Red", "Blue", "Green"]
 
 st.write("**Instruction:** Select blocks to create towers using Red, Blue, and Green blocks (no repeats in a tower).")
-
+st.image("rbg.png")
 # Tower Inputs
 tower_inputs = {}
 cols = st.columns(6)
