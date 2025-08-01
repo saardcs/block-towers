@@ -17,7 +17,7 @@ for i, col in enumerate(cols):
         st.markdown(f"**Tower {i+1}**")
         tower_inputs[i] = []
         for block in range(3):
-            tower_inputs[i].append(st.selectbox("Select", colors, key=f"tower{i}_block{block}"))
+            tower_inputs[i].append(st.selectbox("Select", colors, key=f"tower{i}_block{block}", label_visibility = "collapsed"))
 
 # Questions
 st.write("### Questions")
