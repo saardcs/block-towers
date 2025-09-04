@@ -4,6 +4,8 @@
 
 **Color Towers** is an interactive **Streamlit app** designed for **Mathayom 1–3 students** to practice **combinations** and **permutations**. The app lets students build towers with blocks of three colors—Red, Blue, and Green—while answering questions related to the number of valid combinations under certain rules.
 
+![](color-towers.png)
+
 ---
 
 ### 🎓 About the App
